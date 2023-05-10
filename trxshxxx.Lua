@@ -1,9 +1,1 @@
-repeat wait() until game:IsLoaded()
-local PlaceId = game.PlaceId
-if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/RevizxDD/kak/main/x2hryyX.Lua"))()
-elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/RevizxDD/kak/main/rxnzrrExe.Lua"))()
-elseif PlaceId == 537413528 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/RevizxDD/kak/main/xyrezXXL.Lua"))()
-end
+
